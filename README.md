@@ -39,7 +39,7 @@
     + [JRE](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
 
 * macOS: 
-    - Tải tệp đính kèm tại Releases và giải nén
+    - Tải tệp đính kèm tại **Releases** và giải nén
     - Chạy ứng dụng:
         + Cách 1: Mở Dictionary.app
         + Cách 2: Mở Dictionary.jar
@@ -54,7 +54,7 @@
             + Nhập mật khẩu và enter
     
 * Windows:
-    - Tải tệp đính kèm tại Releases và giải nén
+    - Tải tệp đính kèm tại **Releases** và giải nén
     - Chạy ứng dụng:
         + Cách 1: Mở Dictionary.exe
         + Cách 2: Mở Dictionary.jar
@@ -63,7 +63,7 @@
             + `java -jar Dictionary.jar`
 
 * Các hệ điều hành khác:
-    - Tải tệp đính kèm tại Releases và giải nén
+    - Tải tệp đính kèm tại **Releases** và giải nén
     - Chạy ứng dụng:
         + Cách 1: Mở Dictionary.jar
         + Cách 2: Mở giao diện dòng lệnh và chạy những lệnh sau:
